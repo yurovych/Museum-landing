@@ -12,7 +12,7 @@
 - **Google Fonts**: Fonts `IBM Plex Sans` and `Montserrat` for typography.
 
 ## Links
-- **Preview**: [Project Live Preview](https://your-live-preview-link.com)
+- **Preview**: [Project Live Preview](https://yurovych.github.io/Museum-landing/)
 - **Mockup**: [Figma Mockup Link](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1)
 
 ## Additional Launch Instructions
