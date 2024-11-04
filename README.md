@@ -19,5 +19,6 @@
 To launch the project locally:
 
 1. Clone the repository.
-2. Ensure that you have a live server extension or tool to preview the HTML file.
-3. Open `index.html` in the browser.
+2. Use Node v20 or higher.
+3. Ensure that you have a live server extension or tool to preview the HTML file.
+4. Open `index.html` in the browser by running 'npm start' in terminal.
